@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there  <img src="https://profile-counter.glitch.me/khannoussi-malek/count.svg"> 👋
+
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <p>As a 24 years old developer, with year of professional experience at high-end companies, I am now looking for new opportunities to push the limits of my knowled</p>
