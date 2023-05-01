@@ -2,7 +2,7 @@
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<p>As a 24 years old developer, with year of professional experience at high-end companies, I am now looking for new opportunities to push the limits of my knowled</p>
+<p>As a 25 years old developer, with year of professional experience at high-end companies, I am now looking for new opportunities to push the limits of my knowled</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><b> Github Stats </b>
 <br>
