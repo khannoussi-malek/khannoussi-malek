@@ -1,4 +1,6 @@
 # Hi there <img src="https://profile-counter.glitch.me/khannoussi-malek/count.svg"> 👋
+<div align="center"> <img src="https://raw.githubusercontent.com/khannoussi-malek/khannoussi-malek/main/Support-Palestine.svg" alt="Palestine" style="margin: 2rem;"/>
+</div>
 
 <!-- Add links to your GitLab profile here -->
 <div align="center">
@@ -16,7 +18,7 @@
 <div align="center">
   <h2>Check out my website:</h2>
   <p>
-    <a href="https://www.malekkhannoussi.me/" target="_blank">
+    <a href="https://www.malekkhannoussi.tn/" target="_blank">
       <button>🌐</button>
     </a>
   </p>
