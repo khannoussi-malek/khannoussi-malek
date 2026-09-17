@@ -1,97 +1,53 @@
-# Hi there <img src="https://profile-counter.glitch.me/khannoussi-malek/count.svg"> 👋
-<div align="center"> <img src="https://raw.githubusercontent.com/khannoussi-malek/khannoussi-malek/main/Support-Palestine.svg" alt="Palestine" style="margin: 2rem;"/>
-</div>
+<a href="https://www.malekkhannoussi.tn/">
+  <img src="assets/header.svg" width="100%" alt="Terminal card: Malek Khannoussi, Full-Stack and DevOps Engineer with 5+ years across Tunisia, France and Austria. Stack: React, Next.js, TypeScript, Django, FastAPI, Postgres, Docker, Terraform, CI/CD. Building Navo and PaperLab. Open to Full-Stack / DevOps roles in Berlin and Potsdam, EU Blue Card eligible.">
+</a>
 
-<!-- Add links to your GitLab profile here -->
-<div align="center">
-  <a href="https://gitlab.com/khannoussi-malek" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab:  Khannoussi Malek-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
-  </a>
-	<a href="https://www.linkedin.com/in/malek-khannoussi-54726116b" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin:  Khannoussi Malek-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-    </a>
-	    <a href="mailto:khannoussimalek@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail:  Khannoussi Malek-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-    </a>
-</div>
-
-<div align="center">
-  <h2>Check out my website:</h2>
-  <p>
-    <a href="https://www.malekkhannoussi.tn/" target="_blank">
-      <button>🌐</button>
-    </a>
-  </p>
-</div>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<p>As a 26 years old developer, with years of professional experience at high-end companies, I am now looking for new opportunities to push the limits of my knowledge.</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><b> Github Stats </b>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/khannoussi-malek/">
-    <img src="https://github-readme-stats.vercel.app/api?username=khannoussi-malek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  style="margin: 30px;" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khannoussi-malek&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="khannoussi-malek"  style="margin: 30px;"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khannoussi-malek&langs_count=8&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="khannoussi-malek"  style="margin: 30px;"/>
-</div>
-
-<br>
-<br>
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"><b> Skills 🚀</b>
-
-<br>
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<p align="center">
+  <a href="https://www.malekkhannoussi.tn/"><img src="https://img.shields.io/badge/malekkhannoussi.tn-30363D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZwogIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWdsb2JlIgogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB3aWR0aD0iMjQiCiAgaGVpZ2h0PSIyNCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0ibm9uZSIKICBzdHJva2U9IiNGRkZGRkYiCiAgc3Ryb2tlLXdpZHRoPSIyIgogIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICBzdHJva2UtbGluZWpvaW49InJvdW5kIgo%2BCiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8%2BCiAgPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiIC8%2BCiAgPHBhdGggZD0iTTIgMTJoMjAiIC8%2BCjwvc3ZnPgo%3D" alt="Website: malekkhannoussi.tn"></a>
+  <a href="https://www.linkedin.com/in/khannoussi-malek/"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
+  <a href="mailto:khannoussimalek@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://gitlab.com/khannoussi-malek"><img src="https://img.shields.io/badge/GitLab-30363D?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+  <img src="Support-Palestine.svg" height="28" alt="Support Palestine">
 </p>
-<br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
+### ~/about
 
-<br>
+I build production systems that ship: the React and Next.js front end, the Django and FastAPI back end, and the Docker, Terraform and CI/CD plumbing that gets them to users.
 
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/malek-khannoussi-54726116b" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin:  Khannoussi Malek-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-    </a>
-  </li>
+- **Shipped:** team lead on MYLDV, a React + Lumen SaaS.
+- **Building:** [Navo](https://github.com/khannoussi-malek/navo), ask your databases questions in plain English. And [PaperLab](https://github.com/khannoussi-malek/PaperLab), a local-first research reader whose AI answers cite the exact PDF page.
+- **Researching:** [architectural refactoring in Apache projects](https://github.com/khannoussi-malek/refactoring-review-friction), an empirical study that mined 51,861 refactorings from Hadoop.
+- **Looking for:** a Full-Stack / DevOps role in Berlin or Potsdam. EU Blue Card eligible.
 
-  <li>
-    <a href="mailto:khannoussimalek@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail:  Khannoussi Malek-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-    </a>
-  </li>
-  <li>
-<a href="https://gitlab.com/khannoussi-malek" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab:  Khannoussi Malek-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
-  </a></li>
-</ul>
+### ~/stack
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,html,css&theme=dark" height="40" alt="TypeScript, JavaScript, React, Next.js, Vue, HTML, CSS">
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,nestjs,php,laravel&theme=dark" height="40" alt="Python, Django, FastAPI, Node.js, NestJS, PHP, Laravel">
+
+**Data**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka&theme=dark" height="40" alt="PostgreSQL, MySQL, MongoDB, Kafka">
+
+**DevOps**<br>
+<img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,gitlab,linux,bash,git&theme=dark" height="40" alt="Docker, Terraform, GitHub Actions, GitLab CI, Linux, Bash, Git">
+
+### ~/pipeline
+
+<img src="assets/pipeline.svg" width="100%" alt="Isometric 3D deploy pipeline: code (git push) to CI (test, lint) to build (Docker) to infra (Terraform) to prod, with packets moving along a conveyor.">
+
+### ~/activity
+
+<!-- Regenerated daily by .github/workflows/profile-3d-contrib.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="profile-3d-contrib/profile-green.svg" width="100%" alt="3D contribution calendar for khannoussi-malek with total contributions, stars, forks and language breakdown">
+</picture>
+
+> [!NOTE]
+> Graph looking quiet? You're on the free tier. Most of my commits live in private repos, the ones that pay the bills.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khannoussi-malek&style=flat-square&color=58A6FF&label=profile+views" alt="Profile views">
+</p>

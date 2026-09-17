@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 436" width="860" height="436" role="img" aria-labelledby="title desc">
+  <title id="title">Malek Khannoussi, Full-Stack &amp; DevOps Engineer</title>
+  <desc id="desc">Terminal card. Stack: React, Next.js, TypeScript, Django, FastAPI, Postgres, Docker, Terraform, CI/CD. Building Navo and PaperLab. Research: 51,861 refactorings mined from Hadoop. Open to Full-Stack / DevOps roles in Berlin and Potsdam, EU Blue Card eligible.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 15px; fill: #E6EDF3; }
+    .dim { fill: #8B949E; } .acc { fill: #58A6FF; } .ok { fill: #3FB950; } .hash { fill: #D29922; }
+    .name { font-size: 30px; font-weight: 700; }
+    .bar { font-size: 13px; fill: #8B949E; }
+    .in { animation: in .35s ease-out both; }
+    .rise { animation: rise .5s ease-out both; }
+    /* typing = a bg-colored cover shrinking toward its right edge in per-char steps */
+    .cover { fill: #0D1117; transform-box: fill-box; transform-origin: right; }
+    .cursor { animation: in .01s 6.2s both, blink 1s steps(1) 6.2s infinite; }
+    @keyframes in { from { opacity: 0; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } }
+    @keyframes type { from { transform: scaleX(1); } to { transform: scaleX(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .cover { display: none; }
+      * { animation: none !important; }
+    }
+  </style>
+  <defs>
+    <clipPath id="card"><rect width="860" height="436" rx="12"/></clipPath>
+    <radialGradient id="glow" cx="760" cy="40" r="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="860" height="436" fill="#0D1117"/>
+    <rect width="860" height="436" fill="url(#glow)"/>
+    <rect width="860" height="36" fill="#161B22"/>
+    <rect y="36" width="860" height="1" fill="#30363D"/>
+  </g>
+  <rect x=".5" y=".5" width="859" height="435" rx="11.5" fill="none" stroke="#30363D"/>
+  <circle cx="22" cy="18" r="6" fill="#FF5F57"/>
+  <circle cx="42" cy="18" r="6" fill="#FEBC2E"/>
+  <circle cx="62" cy="18" r="6" fill="#28C840"/>
+  <text class="bar" x="430" y="23" text-anchor="middle">malek@djerba: ~</text>
+
+  <!-- $ whoami -->
+  <g class="in" style="animation-delay:.2s">
+    <text x="28" y="72" class="ok">$</text>
+    <text x="48" y="72">whoami</text>
+    <rect class="cover" x="46" y="55" width="70" height="23" style="animation:type .5s steps(6) .3s both"/>
+  </g>
+  <text x="28" y="110" class="name rise" style="animation-delay:1s">Malek Khannoussi</text>
+  <text x="28" y="136" class="in" style="animation-delay:1.2s"><tspan class="acc">Full-Stack &amp; DevOps Engineer</tspan><tspan class="dim"> · 5+ years · Tunisia → France → Austria</tspan></text>
+
+  <!-- $ cat stack.txt -->
+  <g class="in" style="animation-delay:1.6s">
+    <text x="28" y="176" class="ok">$</text>
+    <text x="48" y="176">cat stack.txt</text>
+    <rect class="cover" x="46" y="159" width="130" height="23" style="animation:type .8s steps(13) 1.7s both"/>
+  </g>
+  <text x="28" y="202" class="in" style="animation-delay:2.7s">React · Next.js · TypeScript <tspan class="dim">│</tspan> Django · FastAPI · Postgres <tspan class="dim">│</tspan> Docker · Terraform · CI/CD</text>
+
+  <!-- $ git log (oneline, last 3) -->
+  <g class="in" style="animation-delay:3.1s">
+    <text x="28" y="242" class="ok">$</text>
+    <text x="48" y="242">git log --oneline -3</text>
+    <rect class="cover" x="46" y="225" width="196" height="23" style="animation:type 1s steps(20) 3.2s both"/>
+  </g>
+  <text x="28" y="268" class="in" style="animation-delay:4.4s"><tspan class="hash">4f0c2a1</tspan> feat: Navo, ask your databases questions in plain English</text>
+  <text x="28" y="292" class="in" style="animation-delay:4.55s"><tspan class="hash">9b7e3d5</tspan> feat: PaperLab, a local-first PDF reader whose AI answers cite the page</text>
+  <text x="28" y="316" class="in" style="animation-delay:4.7s"><tspan class="hash">2c81f06</tspan> research: mined 51,861 refactorings from Hadoop's history</text>
+
+  <!-- $ ./status -->
+  <g class="in" style="animation-delay:5.1s">
+    <text x="28" y="356" class="ok">$</text>
+    <text x="48" y="356">./status</text>
+    <rect class="cover" x="46" y="339" width="86" height="23" style="animation:type .5s steps(8) 5.2s both"/>
+  </g>
+  <text x="28" y="382" class="in" style="animation-delay:5.9s"><tspan class="ok">●</tspan> open to Full-Stack / DevOps roles in Berlin &amp; Potsdam <tspan class="dim">· EU Blue Card eligible</tspan></text>
+
+  <text x="28" y="408" class="ok in" style="animation-delay:6.2s">$</text>
+  <rect class="cursor" x="48" y="394" width="9" height="18" fill="#E6EDF3"/>
+</svg>

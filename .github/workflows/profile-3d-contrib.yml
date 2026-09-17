@@ -1,0 +1,33 @@
+name: profile-3d-contrib
+
+# Regenerates profile-3d-contrib/*.svg (3D contribution calendar + stats + languages)
+# so the README never depends on a third-party stats server.
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/profile-3d-contrib.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          # ponytail: GITHUB_TOKEN sees public activity only; swap in a PAT secret to count private contributions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          if git commit -m "chore: regenerate 3D contribution graph"; then
+            git push
+          fi
